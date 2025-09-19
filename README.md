@@ -1,1 +1,1 @@
-brief information about my mini project 
+Brief Information About My Mini Project 
