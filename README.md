@@ -1,1 +1,1 @@
-Mini project 
+brief information about my mini project 
